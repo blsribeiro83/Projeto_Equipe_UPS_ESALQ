@@ -9,25 +9,25 @@ Desenvolva no seu fork e abra um Pull Request quando concluir.
 
 | # | Tarefa | Responsável | Status |
 |---|--------|-------------|--------|
-| 01 | Carregamento dos dados | — | 🔲 Pendente |
-| 02 | Inspeção inicial | — | 🔲 Pendente |
-| 03 | Limpeza dos dados | — | 🔲 Pendente |
-| 04 | Transformações | — | 🔲 Pendente |
-| 05 | Análise estatística descritiva | — | 🔲 Pendente |
-| 06 | Retorno diário | — | 🔲 Pendente |
-| 07 | Retorno acumulado | — | 🔲 Pendente |
-| 08 | Volatilidade anualizada | — | 🔲 Pendente |
-| 09 | Drawdown | — | 🔲 Pendente |
-| 10 | Índice de Sharpe | — | 🔲 Pendente |
-| 11 | Correlação entre ações | — | 🔲 Pendente |
-| 12 | Gráfico de preços e médias móveis | — | 🔲 Pendente |
-| 13 | Gráfico de retorno acumulado | — | 🔲 Pendente |
-| 14 | Histograma de retornos diários | — | 🔲 Pendente |
-| 15 | Boxplot comparativo de retornos | — | 🔲 Pendente |
-| 16 | Scatter retorno médio × volatilidade | — | 🔲 Pendente |
-| 17 | Mapa de calor de correlação | — | 🔲 Pendente |
-| 18 | Scatterplot de correlação entre pares | — | 🔲 Pendente |
-| 19 | Análise de volume | — | 🔲 Pendente |
+| 01 | Carregamento dos dados | PBergo + GitAI | ✅ Concluído |
+| 02 | Inspeção inicial | PBergo + GitAI | ✅ Concluído |
+| 03 | Limpeza dos dados | PBergo + GitAI | ✅ Concluído |
+| 04 | Transformações | PBergo + GitAI | ✅ Concluído |
+| 05 | Análise estatística descritiva | PBergo + GitAI | ✅ Concluído |
+| 06 | Retorno diário | PBergo + GitAI | ✅ Concluído |
+| 07 | Retorno acumulado | PBergo + GitAI | ✅ Concluído |
+| 08 | Volatilidade anualizada | PBergo + GitAI | ✅ Concluído |
+| 09 | Drawdown | PBergo + GitAI | ✅ Concluído |
+| 10 | Índice de Sharpe | PBergo + GitAI | ✅ Concluído |
+| 11 | Correlação entre ações | PBergo + GitAI | ✅ Concluído |
+| 12 | Gráfico de preços e médias móveis | PBergo + GitAI | ✅ Concluído |
+| 13 | Gráfico de retorno acumulado | PBergo + GitAI | ✅ Concluído |
+| 14 | Histograma de retornos diários | PBergo + GitAI | ✅ Concluído |
+| 15 | Boxplot comparativo de retornos | PBergo + GitAI | ✅ Concluído |
+| 16 | Scatter retorno médio × volatilidade | PBergo + GitAI | ✅ Concluído |
+| 17 | Mapa de calor de correlação | PBergo + GitAI | ✅ Concluído |
+| 18 | Scatterplot de correlação entre pares | PBergo + GitAI | ✅ Concluído |
+| 19 | Análise de volume | PBergo + GitAI | ✅ Concluído |
 
 > Coloque seu nome na coluna **Responsável** ao pegar uma tarefa.
 > Atualize o **Status** com: 🔲 Pendente · 🔄 Em andamento · ✅ Concluído

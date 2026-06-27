@@ -26,13 +26,20 @@ A partir de dados históricos de ações brasileiras baixados do Yahoo Finance, 
 Projeto_Equipe_UPS_ESALQ/
 │
 ├── data/
-│   └── raw/                    ← datasets brutos (não edite estes arquivos)
-│       └── acoes_yahoo.csv     ← histórico de preços das ações
+│   └── raw/                        ← datasets brutos (não edite estes arquivos)
+│       └── acoes_yahoo.csv         ← histórico de preços das ações
 │
-├── notebook_base.ipynb         ← notebook principal com a estrutura do projeto
-├── requirements.txt            ← bibliotecas Python necessárias
-├── TASKS.md                    ← tarefas detalhadas com instruções de código
-└── README.md                   ← este arquivo
+├── notebook_base.ipynb             ← notebook principal com a estrutura do projeto
+├── analise_acoes_notebook.ipynb    ← Código Notebook formato Markdown - Jupyter e Visual Studio Code
+├── analise_acoes_stepbystep.py     ← Código Notebook formato open - Spyder
+├── analise_acoes.py                ← Código em formato script - Execução via linha comando
+|
+├── requirements.txt                ← bibliotecas Python necessárias
+├── output/
+|   └── xxxx.png|csv                ← arquivos de saída das análises
+├── TASKS.md                        ← tarefas detalhadas com instruções de código
+└── README.md                       ← este arquivo
+
 ```
 
 ---
@@ -282,6 +289,7 @@ Avise no grupo — alguém pode ajudar a resolver.
 | Mayara Silva | — |
 | Carolina Soares | — |
 | Gleycielle | — |
+| Pedro Bergo | @pbergo |
 
 > Atualize esta tabela com seu username do GitHub ao entrar no projeto.
 
